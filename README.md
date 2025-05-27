@@ -91,7 +91,7 @@ Saída esperada:
 
 ## 👨‍💻 Autor
 
-** [Adriel.ck] **  
+Adrielck  
 Desenvolvedor Python com foco em segurança ofensiva e automação de testes.
 
 ---
